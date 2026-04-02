@@ -1,1 +1,6 @@
+def twoSUM(nums, target):
+    num_map = {} 
 
+    for i, n in enumerate(nums):
+        pass
+    return []
